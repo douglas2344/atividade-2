@@ -2,7 +2,7 @@ programa {
   funcao inicio() {
     escreva("ler a quantidade de morangos")
     leia(morangos)
-    escreva("ler a quantidade de maças")
+    escreva("ler a quantidade de maÃ§as")
     leia(macas)
 
     Calcular "o preco total dos morangos" 
