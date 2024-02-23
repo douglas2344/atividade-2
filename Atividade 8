@@ -12,7 +12,7 @@ programa {
      
      se (cd = 1 ) entao
 
-     escreva("o valor desta cor é 10.00")
+     escreva("o valor desta cor Ã© 10.00")
 
      
 
