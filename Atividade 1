@@ -11,11 +11,11 @@ programa {
 
       se a soma de "A + B for menor que C, entao"
       
-       imprimir "A + B é menor que C "
+       imprimir "A + B Ã© menor que C "
 
        senao
        
-       imprimir "A + B é maior que C"
+       imprimir "A + B Ã© maior que C"
 
        "==== FIM ====="
   }
