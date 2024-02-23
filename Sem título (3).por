@@ -1,0 +1,20 @@
+programa {
+  funcao inicio() {
+    escreva("Digite a primeira nota:")
+    leia(1)
+    escreva("Digite a segunda nota:")
+    leia(2)
+    
+    Calculando a media aritmetica 
+    media= ("nota1 + nota 2") /2
+
+    exibindo a media("A media do aluno é")
+    
+    verificando se o aluno foi aprovado, reprovado ou esta em recuperacao
+
+    media>= 6.0
+
+    (parabens! Aluno reprovado)
+    ("Aluno em recuperacao")
+  }
+}
