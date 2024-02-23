@@ -8,7 +8,7 @@ programa {
     Calculando a media aritmetica 
     media= ("nota1 + nota 2") /2
 
-    exibindo a media("A media do aluno é")
+    exibindo a media("A media do aluno Ã©")
     
     verificando se o aluno foi aprovado, reprovado ou esta em recuperacao
 
